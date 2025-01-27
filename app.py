@@ -11,7 +11,7 @@ import xgboost as xgb
 from xgboost import DMatrix
 
 # plotting
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 # import matplotlib.colors as mcolors
 import seaborn as sns
 import altair as alt
